@@ -1,0 +1,8 @@
+How many tires do we sell?
+We sold 166 million tires at 69 facilities located in 18 countries.
+What is our biggest source of revenue?
+Consumer tire sales make up 84.3% of our income.
+What is the correlation of tire sales to U.S GDP?
+The correlation is about .23, weakly positive
+Tell me a joke
+Why are new tires so expensive? A lot of it is inflation.
